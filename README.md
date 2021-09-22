@@ -5,3 +5,6 @@ Brad Kelley
 Ty
 Lab 3 Git Commmand Brad's step 10 edits on main branch
 Project Team Members: Marie
+
+Lab 3 Git Command last submission 
+Project Team Members: John Lim
