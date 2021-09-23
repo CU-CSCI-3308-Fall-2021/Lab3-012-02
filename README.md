@@ -7,8 +7,7 @@ John
 Lab 3 Git Commmand Brad's step 10 edits on main branch
 Project Team Members: Marie
 
-123 Testing
-123 Testing
-123 Testing
-123 Testing
-123 Testing
+Lab 3 Git Command last submission 
+Project Team Members: John Lim
+Testing Testing 123
+
